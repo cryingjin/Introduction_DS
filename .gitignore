@@ -1,0 +1,9 @@
+*.DS_Store
+*.docx
+*.pdf
+*.html
+*.txt
+*.zip
+data/
+lecture_note/
+
