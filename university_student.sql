@@ -1,3 +1,5 @@
+use university;
+
 create table student(
 sno int primary key,
 sname varchar(30),
@@ -13,4 +15,5 @@ values
 (300, 'Jang', 'MA', 2017),
 (400, 'Park', 'IE', 2018);
 
-select * from student;
+select * from university.student;
+iris
