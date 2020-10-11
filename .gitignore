@@ -6,4 +6,5 @@
 *.zip
 data/
 lecture_note/
+*.ipynb_checkpoints/
 
