@@ -7,4 +7,6 @@
 data/
 lecture_note/
 *.ipynb_checkpoints/
+w8/*.mp4
+w8/*.gif
 
